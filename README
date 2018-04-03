@@ -6,11 +6,7 @@ further information about Lua, see doc/readme.html.
 
 # 用法
 linux:
-```
 make linux
-```
 
 windows:
-```
 make windows
-```
